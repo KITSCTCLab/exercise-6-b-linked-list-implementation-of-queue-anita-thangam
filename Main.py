@@ -10,18 +10,17 @@ class Queue:
     self.last = None
 
   def enqueue(self, data) -> None:
-    # Write your code here
+
 
   def dequeue(self) -> None:
-    # Write your code here
+
 
   def status(self) -> None:
-    # Write your code here
 
 
-# Do not change the following code
+
 queue = Queue()
-operations = []
+operations[];
 for specific_operation in input().split(','):
     operations.append(specific_operation.strip())
 input_data = input()
